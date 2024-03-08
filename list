@@ -1,0 +1,12 @@
+{
+  "placelist":[
+    {
+      "title":"上赛东馆",
+      "jsonsrc":"http://8.136.154.105:8081/temp/appksh/vdo1.json"
+    },
+    {
+      "title":"上赛西馆",
+      "jsonsrc":"http://8.136.154.105:8081/temp/appksh/vdo2.json"
+    }
+  ]
+}
