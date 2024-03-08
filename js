@@ -1,0 +1,36 @@
+{
+  "bgimg":"https://ts1.cn.mm.bing.net/th/id/R-C.dfae341c76bd4e04efd7d986a4d66e88?rik=mgdtE7lIWErAdA&riu=http%3a%2f%2fimg.zcool.cn%2fcommunity%2f01bf2a57d21aaa0000018c1b0bb237.jpg%402o.jpg&ehk=lN6yYBONZsVGMsA7fQ1ZPnZzIYWaabzpc64Bg2JFya8%3d&risl=&pid=ImgRaw&r=0",
+  "point":[
+    {
+      "title":"DGA区1楼",
+      "x":5,
+      "y":15,
+      "icosrc":"",
+      "videosrc":""
+    },{
+      "title":"DGA区2楼",
+      "x":35,
+      "y":40,
+      "icosrc":"",
+      "videosrc":""
+    },{
+      "title":"DGA区3楼",
+      "x":25,
+      "y":15,
+      "icosrc":"",
+      "videosrc":"rtmp://mobliestream.c3tv.com:554/live/goodtv.sdp"
+    },{
+      "title":"DGB区1楼",
+      "x":55,
+      "y":5,
+      "icosrc":"",
+      "videosrc":"rtsp://71.83.5.156/axis-media/media.amp"
+    },{
+      "title":"DGB区2楼",
+      "x":25,
+      "y":45,
+      "icosrc":"",
+      "videosrc":"http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8"
+    }
+  ]
+}
